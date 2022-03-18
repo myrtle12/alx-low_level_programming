@@ -2,14 +2,11 @@ ines (13 sloc)  220 Bytes
    
 #include "main.h"
 /**
- * _isupper - check the code for Holberton School students.
+ * _isupper - check the code for upper case characters
  * @c: Character input
  * Return: Always 0.
  */
 int _isupper(int c)
 {
-	if (c >= 'A' && c <= 'Z')
-		return (1);
-	else
-		return (0);
+	return (c >= 'A' && c <= 'Z');
 }
