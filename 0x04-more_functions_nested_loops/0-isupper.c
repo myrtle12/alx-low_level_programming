@@ -1,5 +1,3 @@
-ines (13 sloc)  220 Bytes
-   
 #include "main.h"
 /**
  * _isupper - check the code for upper case characters
