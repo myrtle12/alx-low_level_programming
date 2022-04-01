@@ -2,8 +2,10 @@
 #include <stdio.h>
 
 /**
- * a program that prints a new name without having o compile again
+ * a program that prints a new name without having to compile again
  *
+ * @argc: number of arguments
+ * @argv: array of arguments
  * success returns 0
  */
 
